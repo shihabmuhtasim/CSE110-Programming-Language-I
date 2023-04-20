@@ -1,4 +1,11 @@
 # CSE 110: Programming Language I
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/CSE110-Programming-Language-I?color=f5f5dc) 
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/CSE110-Programming-Language-I?color=f5f5dc) 
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/CSE110-Programming-Language-I?color=f5f5dc) 
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/CSE110-Programming-Language-I?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/CSE110-Programming-Language-I?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/CSE110-Programming-Language-I?style=social)
+
 
 This repository contains code related to the CSE 110: Programming Language I course, which is an introduction to the foundations of computation and purpose of mechanized computation. The course covers various topics related to programming and problem-solving using Python.
 
